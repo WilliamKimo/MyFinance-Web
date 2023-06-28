@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4x/io3hY106WpBZGuJraUNhhGVrO890hlmyg/4M8+54hXy6tInK8QlLBxX66VedW0tcjbt2t7YQPDl7P9zor5g==",
+  "dgSpecHash": "iSFo95mHovIS7+/A25enFdQ06aa2RJYjMwOAU6rmWde12KGbVFAMhVMoznjEoQqaYGmPzKnZD8YbJV2wtYWUsQ==",
   "success": true,
-  "projectFilePath": "C:\\Projeto PUC\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+  "projectFilePath": "D:\\PUC\\DEV\\myfinance-web-dotnet\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
